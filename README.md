@@ -2,14 +2,12 @@
 description: Computer Science H446-03
 ---
 
-# 2D Puzzle Platformer
-
-![](<.gitbook/assets/image (2).png>)
+# Some Generic Project
 
 |                  |                  |
 | ---------------- | ---------------- |
-| Candidate Name   | Benjamin Fielder |
-| Candidate Number | 8029             |
+| Candidate Name   | Generic Student  |
+| Candidate Number | 9999             |
 | Centre Name      | Marling School   |
 | Centre Number    | 57037            |
 
